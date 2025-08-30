@@ -59,12 +59,5 @@ If you use a public dataset, add credits here. Example:
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
+
 **AUTHOR: SAI BHASKAR NANDURI**
-
-
-
-## Acknowledgements
-
-- TensorFlow community
-- Streamlit community
-- [Any other references or contributors]
