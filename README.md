@@ -48,13 +48,7 @@ Replace `app.py` with the actual Streamlit app filename if different.
 - Upload a plant leaf image.
 - View the predicted disease and additional information.
 
-## Project Structure
 
-- `app.py` : Main Streamlit app (entry point).
-- `models/` : Trained models and scripts for TensorFlow.
-- `utils/` : Utility scripts (preprocessing, helpers, etc.).
-- `requirements.txt` : List of required Python packages.
-- `README.md` : Project documentation.
 
 ## Dataset
 
@@ -65,9 +59,9 @@ If you use a public dataset, add credits here. Example:
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
+**AUTHOR: SAI BHASKAR NANDURI**
 
-Specify your license here (MIT, Apache, etc.).
+
 
 ## Acknowledgements
 
